@@ -1,0 +1,1327 @@
+﻿Log file open, 08/23/19 14:51:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264662
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '172.20.20.104:8080'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970M
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=GLaTAN -epicuserid=0142585569364dfb96e33450b4b96e97 -epiclocale=ja-JP
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.23-05.51.14:523][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.23-05.51.14:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:525][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:529][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.23-05.51.14:530][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.23-05.51.14:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.23-05.51.14:532][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.23-05.51.14:533][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.23-05.51.14:533][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.23-05.51.14:533][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.23-05.51.14:575][  0]LogHAL: Display: Platform has ~ 16 GB [17138737152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.23-05.51.14:575][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.23-05.51.14:575][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.23-05.51.14:575][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.23-05.51.14:576][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.23-05.51.14:577][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.23-05.51.14:577][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.23-05.51.14:577][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.23-05.51.14:577][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.23-05.51.14:577][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.23-05.51.14:577][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.23-05.51.14:577][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.08.23-05.51.14:577][  0]LogInit: Computer: DESKTOP-RD0JJ78
+[2019.08.23-05.51.14:577][  0]LogInit: User: GLaTAN
+[2019.08.23-05.51.14:577][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.23-05.51.14:577][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.23-05.51.14:577][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.08.23-05.51.14:577][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.23-05.51.14:578][  0]LogMemory: Process Physical Memory: 96.18 MB used, 96.19 MB peak
+[2019.08.23-05.51.14:578][  0]LogMemory: Process Virtual Memory: 90.38 MB used, 90.38 MB peak
+[2019.08.23-05.51.14:578][  0]LogMemory: Physical Memory: 7252.42 MB used,  9092.36 MB free, 16344.77 MB total
+[2019.08.23-05.51.14:578][  0]LogMemory: Virtual Memory: 4643.80 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.08.23-05.51.14:600][  0]LogInit: Using OS detected language (ja-JP).
+[2019.08.23-05.51.14:600][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.08.23-05.51.14:600][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.08.23-05.51.14:650][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.23-05.51.14:690][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.23-05.51.14:690][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.23-05.51.14:827][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.23-05.51.14:827][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.23-05.51.14:867][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2019.08.23-05.51.14:867][  0]LogD3D11RHI:       6106/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.23-05.51.14:869][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.23-05.51.14:869][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.23-05.51.14:869][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.23-05.51.14:875][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.23-05.51.14:876][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.23-05.51.14:876][  0]LogWindows: EnumDisplayDevices:
+[2019.08.23-05.51.14:876][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970M' (P:1 D:1)
+[2019.08.23-05.51.14:876][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2019.08.23-05.51.14:876][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2019.08.23-05.51.14:876][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2019.08.23-05.51.14:876][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.23-05.51.14:876][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2019.08.23-05.51.14:876][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2019.08.23-05.51.14:876][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2019.08.23-05.51.14:876][  0]LogRHI: Texture pool is 4274 MB (70% of 6106 MB)
+[2019.08.23-05.51.14:901][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.23-05.51.14:903][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.23-05.51.14:904][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.23-05.51.14:904][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.23-05.51.14:911][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.23-05.51.15:166][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.23-05.51.15:177][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.23-05.51.15:188][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.23-05.51.15:199][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.23-05.51.15:210][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.23-05.51.15:221][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.23-05.51.15:232][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.23-05.51.15:244][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.23-05.51.15:250][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.23-05.51.15:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.23-05.51.15:313][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.23-05.51.15:314][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.23-05.51.15:315][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.23-05.51.15:358][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.23-05.51.15:358][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.23-05.51.15:377][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.23-05.51.15:377][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.23-05.51.15:387][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.23-05.51.15:396][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.23-05.51.15:407][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.23-05.51.15:418][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.23-05.51.15:455][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.23-05.51.15:455][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.23-05.51.15:455][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.23-05.51.15:461][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.23-05.51.15:498][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Intermediate/Shaders/WorkingDirectory/13752/).
+[2019.08.23-05.51.15:498][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GLaTAN/AppData/Local/Temp/UnrealShaderWorkingDir/F43C4C24480A6E08F6D90CB88E8ADF57/'.
+[2019.08.23-05.51.15:500][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.23-05.51.15:500][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.23-05.51.15:500][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.23-05.51.15:972][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.23-05.51.16:014][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/GLaTAN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.23-05.51.16:014][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GLaTAN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.23-05.51.16:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.23-05.51.16:015][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.23-05.51.16:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.23-05.51.16:015][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.23-05.51.16:025][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.23-05.51.16:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.08.23-05.51.16:040][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GLaTAN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.23-05.51.16:040][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.23-05.51.16:040][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.23-05.51.16:060][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.23-05.51.16:061][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.23-05.51.16:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.23-05.51.16:129][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.08.23-05.51.16:385][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.23-05.51.16:494][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.23-05.51.16:494][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.23-05.51.16:494][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.23-05.51.16:494][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.23-05.51.16:494][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.23-05.51.16:503][  0]LogNetVersion: MyProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2788865488)
+[2019.08.23-05.51.16:838][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035551 seconds
+[2019.08.23-05.51.16:842][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.23-05.51.16:842][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.23-05.51.16:842][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.23-05.51.17:499][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.23-05.51.17:512][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.23-05.51.17:607][  0]SourceControl: ソースコントロールは無効です
+[2019.08.23-05.51.17:607][  0]SourceControl: ソースコントロールは無効です
+[2019.08.23-05.51.17:608][  0]SourceControl: ソースコントロールは無効です
+[2019.08.23-05.51.17:609][  0]SourceControl: ソースコントロールは無効です
+[2019.08.23-05.51.17:674][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.23-05.51.17:735][  0]LogOcInput: OculusInput pre-init called
+[2019.08.23-05.51.18:331][  0]LogEngine: Initializing Engine...
+[2019.08.23-05.51.18:331][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.23-05.51.18:332][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.23-05.51.18:513][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.23-05.51.18:524][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.23-05.51.18:545][  0]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.51.18:568][  0]LogInit: FAudioDevice initialized.
+[2019.08.23-05.51.18:568][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.23-05.51.18:637][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/GLaTAN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.23-05.51.18:645][  0]LogInit: Texture streaming: Enabled
+[2019.08.23-05.51.18:660][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.23-05.51.18:677][  0]LogInit: Transaction tracking system initialized
+[2019.08.23-05.51.18:699][  0]BlueprintLog: New page: エディタの読み込み
+[2019.08.23-05.51.18:780][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.08.23-05.51.19:032][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/' took 0.02s
+[2019.08.23-05.51.19:032][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.23-05.51.19:032][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.23-05.51.19:172][  0]SourceControl: ソースコントロールは無効です
+[2019.08.23-05.51.19:172][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.23-05.51.19:172][  0]LightingResults: New page: ライティングのビルド
+[2019.08.23-05.51.19:174][  0]MapCheck: New page: マップをチェック
+[2019.08.23-05.51.19:174][  0]LightingResults: New page: ライティングのビルド
+[2019.08.23-05.51.19:196][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.08.23-05.51.19:258][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.51.19:262][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.23-05.51.19:283][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.08.23-05.51.19:283][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.23-05.51.19:283][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.106ミリ秒かかりました。
+[2019.08.23-05.51.19:283][  0]LogFileHelpers: Loading map 'Template_Default' took 0.111
+[2019.08.23-05.51.19:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.51.19:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.51.19:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.51.19:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.51.19:508][  0]LogCollectionManager: Loaded 0 collections in 0.001626 seconds
+[2019.08.23-05.51.19:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Collections/' took 0.01s
+[2019.08.23-05.51.19:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Developers/GLaTAN/Collections/' took 0.00s
+[2019.08.23-05.51.19:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Collections/' took 0.00s
+[2019.08.23-05.51.19:540][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.23-05.51.19:557][  0]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2732 classes and 659 folders.
+[2019.08.23-05.51.19:568][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.23-05.51.19:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.23-05.51.19:857][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.23-05.51.19:867][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.23-05.51.19:909][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.23-05.51.19:910][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.08.23-05.51.19:911][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.08.23-05.51.19:911][  0]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.23-05.51.19:918][  0]LogSlate: Took 0.004586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.23-05.51.20:017][  0]LogRenderer: Reallocating scene render targets to support 928x436 Format 10 NumSamples 1 (Frame:1).
+[2019.08.23-05.51.20:111][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.23-05.51.20:111][  0]LogLoad: (Engine Initialization) Total time: 6.98 seconds
+[2019.08.23-05.51.20:111][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.23-05.51.20:179][  0]LogAssetRegistry: Asset discovery search completed in 4.0713 seconds
+[2019.08.23-05.51.20:181][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.23-05.51.20:181][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.08.23-05.51.20:183][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.23-05.51.20:203][  0]LogSlate: Took 0.004560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.23-05.51.23:197][  9]LogSlate: Took 0.010155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.08.23-05.51.23:197][  9]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.23-05.51.25:507][ 16]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/' took 5.35s
+[2019.08.23-05.51.53:231][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.51.53:377][310]AssetReimport: New page: 未処理のソースコンテンツ変更 23:51:53
+[2019.08.23-05.51.53:404][311]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A#1.wav)
+[2019.08.23-05.51.53:445][312]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A#2.wav)
+[2019.08.23-05.51.53:456][312]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A#3.wav)
+[2019.08.23-05.51.53:480][313]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A#4.wav)
+[2019.08.23-05.51.53:485][313]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A#5.wav)
+[2019.08.23-05.51.53:490][313]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A1.wav)
+[2019.08.23-05.51.53:504][314]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A2.wav)
+[2019.08.23-05.51.53:510][314]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A3.wav)
+[2019.08.23-05.51.53:514][314]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A4.wav)
+[2019.08.23-05.51.53:518][314]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A5.wav)
+[2019.08.23-05.51.53:549][315]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B1.wav)
+[2019.08.23-05.51.53:558][315]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B2.wav)
+[2019.08.23-05.51.53:605][316]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B3.wav)
+[2019.08.23-05.51.53:610][316]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B4.wav)
+[2019.08.23-05.51.53:631][317]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B5.wav)
+[2019.08.23-05.51.53:637][317]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C#2.wav)
+[2019.08.23-05.51.53:644][317]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C#3.wav)
+[2019.08.23-05.51.53:658][318]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C#4.wav)
+[2019.08.23-05.51.53:662][318]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C#5.wav)
+[2019.08.23-05.51.53:670][318]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C2.wav)
+[2019.08.23-05.51.53:765][319]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C3.wav)
+[2019.08.23-05.51.53:773][319]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C4.wav)
+[2019.08.23-05.51.53:828][320]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C5.wav)
+[2019.08.23-05.51.53:833][320]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C6.wav)
+[2019.08.23-05.51.53:855][321]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D#2.wav)
+[2019.08.23-05.51.53:862][321]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D#3.wav)
+[2019.08.23-05.51.53:868][321]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D#4.wav)
+[2019.08.23-05.51.53:915][322]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D#5.wav)
+[2019.08.23-05.51.53:921][322]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D2.wav)
+[2019.08.23-05.51.53:927][322]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D3.wav)
+[2019.08.23-05.51.53:960][323]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D4.wav)
+[2019.08.23-05.51.53:969][323]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D5.wav)
+[2019.08.23-05.51.53:991][324]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E2.wav)
+[2019.08.23-05.51.54:028][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E3.wav)
+[2019.08.23-05.51.54:039][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E4.wav)
+[2019.08.23-05.51.54:054][326]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E5.wav)
+[2019.08.23-05.51.54:058][326]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F#1.wav)
+[2019.08.23-05.51.54:065][326]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F#2.wav)
+[2019.08.23-05.51.54:089][327]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F#3.wav)
+[2019.08.23-05.51.54:094][327]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F#4.wav)
+[2019.08.23-05.51.54:098][327]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F#5.wav)
+[2019.08.23-05.51.54:103][327]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F1.wav)
+[2019.08.23-05.51.54:146][328]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F2.wav)
+[2019.08.23-05.51.54:154][328]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F3.wav)
+[2019.08.23-05.51.54:195][329]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F4.wav)
+[2019.08.23-05.51.54:199][329]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F5.wav)
+[2019.08.23-05.51.54:230][330]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G#1.wav)
+[2019.08.23-05.51.54:236][330]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G#2.wav)
+[2019.08.23-05.51.54:243][330]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G#3.wav)
+[2019.08.23-05.51.54:254][331]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G#4.wav)
+[2019.08.23-05.51.54:258][331]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G#5.wav)
+[2019.08.23-05.51.54:262][331]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G1.wav)
+[2019.08.23-05.51.54:269][331]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G2.wav)
+[2019.08.23-05.51.54:336][332]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G3.wav)
+[2019.08.23-05.51.54:342][332]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.wav)
+[2019.08.23-05.51.54:344][332]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.wav)
+[2019.08.23-05.51.54:346][332]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.wav)
+[2019.08.23-05.51.54:348][332]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.wav)
+[2019.08.23-05.51.54:349][332]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.wav)
+[2019.08.23-05.51.54:351][332]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.wav)
+[2019.08.23-05.51.54:363][333]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G5.wav)
+[2019.08.23-05.51.54:395][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A_1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_1.uasset" SILENT=true
+[2019.08.23-05.51.54:404][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A_1558C19F44218FFA37CE2F1B019C9CC73.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_1.uasset'
+[2019.08.23-05.51.54:416][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A_2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_2.uasset" SILENT=true
+[2019.08.23-05.51.54:423][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A_2B93A1D8D428B40629F0E90A09B11B9FD.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_2.uasset'
+[2019.08.23-05.51.54:435][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A_3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_3.uasset" SILENT=true
+[2019.08.23-05.51.54:442][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A_3933AD811415A627C8737F8B41378F79A.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_3.uasset'
+[2019.08.23-05.51.54:453][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A_4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_4.uasset" SILENT=true
+[2019.08.23-05.51.54:461][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A_4811ED85841C1F2EF795CCB8698A21F01.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_4.uasset'
+[2019.08.23-05.51.54:471][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A_5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_5.uasset" SILENT=true
+[2019.08.23-05.51.54:478][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A_54520780146452C8875DC5A8B0C05D06B.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A_5.uasset'
+[2019.08.23-05.51.54:488][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A1.uasset" SILENT=true
+[2019.08.23-05.51.54:496][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A180B08C88414361E470B6B7AEF8C830B4.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A1.uasset'
+[2019.08.23-05.51.54:505][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A2.uasset" SILENT=true
+[2019.08.23-05.51.54:512][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A28BB47CCA483539E6796FB08B3A60F227.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A2.uasset'
+[2019.08.23-05.51.54:520][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A3.uasset" SILENT=true
+[2019.08.23-05.51.54:528][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A368FFFBC848A905EE605092A99AF52777.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A3.uasset'
+[2019.08.23-05.51.54:536][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A4.uasset" SILENT=true
+[2019.08.23-05.51.54:543][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A4E997BFD64C924423B04A1D88B9482964.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A4.uasset'
+[2019.08.23-05.51.54:552][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_A5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A5.uasset" SILENT=true
+[2019.08.23-05.51.54:559][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_A5EA2DBF344BE1871C3EEF9D8A4D4331EA.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_A5.uasset'
+[2019.08.23-05.51.54:569][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_B1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B1.uasset" SILENT=true
+[2019.08.23-05.51.54:577][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_B18DDDA8564CF9C78C0FB423A0E1B347E2.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B1.uasset'
+[2019.08.23-05.51.54:587][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_B2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B2.uasset" SILENT=true
+[2019.08.23-05.51.54:594][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_B2786E82F749D446775BB327AC5F5ED3AE.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B2.uasset'
+[2019.08.23-05.51.54:603][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_B3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B3.uasset" SILENT=true
+[2019.08.23-05.51.54:610][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_B39A64F8B44C009F66FB425A9DF14B4B24.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B3.uasset'
+[2019.08.23-05.51.54:619][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_B4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B4.uasset" SILENT=true
+[2019.08.23-05.51.54:626][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_B4CF86E51D4ED71C4DCC6C1EAF93D396E6.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B4.uasset'
+[2019.08.23-05.51.54:635][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_B5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B5.uasset" SILENT=true
+[2019.08.23-05.51.54:642][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_B59A8E36C14CE49F6A734DCF8DECD984C0.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_B5.uasset'
+[2019.08.23-05.51.54:652][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C_2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_2.uasset" SILENT=true
+[2019.08.23-05.51.54:659][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C_2DAB9715F489BAB5FD1B62EB2D30CDAEA.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_2.uasset'
+[2019.08.23-05.51.54:668][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C_3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_3.uasset" SILENT=true
+[2019.08.23-05.51.54:675][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C_3099225D94C525A3162C594A8A70D9756.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_3.uasset'
+[2019.08.23-05.51.54:684][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C_4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_4.uasset" SILENT=true
+[2019.08.23-05.51.54:690][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C_490A0CBFF4D7C10B02F7F3CBC299671C2.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_4.uasset'
+[2019.08.23-05.51.54:699][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C_5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_5.uasset" SILENT=true
+[2019.08.23-05.51.54:706][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C_56D1F1C034B2FFE910081959878B8EB5F.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C_5.uasset'
+[2019.08.23-05.51.54:716][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C2.uasset" SILENT=true
+[2019.08.23-05.51.54:723][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C27C8CDD0A4C9D96E31569A98DED967520.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C2.uasset'
+[2019.08.23-05.51.54:731][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C3.uasset" SILENT=true
+[2019.08.23-05.51.54:739][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C38C608B734B2909568CCD64BF7C48B25A.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C3.uasset'
+[2019.08.23-05.51.54:747][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C4.uasset" SILENT=true
+[2019.08.23-05.51.54:754][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C420DD8E4C4F3E3054C16FB98175982CC4.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C4.uasset'
+[2019.08.23-05.51.54:763][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C5.uasset" SILENT=true
+[2019.08.23-05.51.54:770][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C5B90C892B4F18DC6475C92A8BC0B74223.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C5.uasset'
+[2019.08.23-05.51.54:781][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_C6" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C6.uasset" SILENT=true
+[2019.08.23-05.51.54:788][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_C6E0A639164355B2D81D986198C2902C99.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_C6.uasset'
+[2019.08.23-05.51.54:798][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D_2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_2.uasset" SILENT=true
+[2019.08.23-05.51.54:805][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D_29D16DFA2480AC1D947A7F6AEC9E38124.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_2.uasset'
+[2019.08.23-05.51.54:814][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D_3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_3.uasset" SILENT=true
+[2019.08.23-05.51.54:821][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D_3B8B41E7A4D733A0E663A9E95E0C23517.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_3.uasset'
+[2019.08.23-05.51.54:830][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D_4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_4.uasset" SILENT=true
+[2019.08.23-05.51.54:837][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D_45890AC7547108C650067EEA9FA05F3C1.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_4.uasset'
+[2019.08.23-05.51.54:845][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D_5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_5.uasset" SILENT=true
+[2019.08.23-05.51.54:852][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D_5A1AB019A4099392C8A795C9711C3F8D5.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D_5.uasset'
+[2019.08.23-05.51.54:861][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D2.uasset" SILENT=true
+[2019.08.23-05.51.54:867][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D21B1C694547887B324DE821BEEDB6EAE7.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D2.uasset'
+[2019.08.23-05.51.54:876][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D3.uasset" SILENT=true
+[2019.08.23-05.51.54:885][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D34BBAB12748A57F629AEFA1B65CD8F7B2.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D3.uasset'
+[2019.08.23-05.51.54:895][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D4.uasset" SILENT=true
+[2019.08.23-05.51.54:902][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D4ACFD60E444FC9D0D0032458258F061FD.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D4.uasset'
+[2019.08.23-05.51.54:910][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_D5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D5.uasset" SILENT=true
+[2019.08.23-05.51.54:918][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_D53A9D887441D6DE348B0393A67043D518.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_D5.uasset'
+[2019.08.23-05.51.54:927][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_E2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E2.uasset" SILENT=true
+[2019.08.23-05.51.54:935][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_E29B5A6AE641EE7B7448A404A95783621A.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E2.uasset'
+[2019.08.23-05.51.54:944][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_E3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E3.uasset" SILENT=true
+[2019.08.23-05.51.54:951][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_E3441E4A9B460F2F4892CFD1A9C7B12BAC.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E3.uasset'
+[2019.08.23-05.51.54:959][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_E4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E4.uasset" SILENT=true
+[2019.08.23-05.51.54:967][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_E4FF527FCF438FB908DE676F96C01D9763.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E4.uasset'
+[2019.08.23-05.51.54:975][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_E5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E5.uasset" SILENT=true
+[2019.08.23-05.51.54:982][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_E5AC226AFB49E057E9446D539AE4433F3F.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_E5.uasset'
+[2019.08.23-05.51.54:992][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F_1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_1.uasset" SILENT=true
+[2019.08.23-05.51.54:999][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F_10BADD26C4110D8518497BDB43C0131CA.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_1.uasset'
+[2019.08.23-05.51.55:009][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F_2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_2.uasset" SILENT=true
+[2019.08.23-05.51.55:016][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F_29B40B52E4AB8A2F7334B18AB1DCBF9FF.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_2.uasset'
+[2019.08.23-05.51.55:024][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F_3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_3.uasset" SILENT=true
+[2019.08.23-05.51.55:032][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F_3AAB176DD44269E20310C039486976FCF.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_3.uasset'
+[2019.08.23-05.51.55:041][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F_4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_4.uasset" SILENT=true
+[2019.08.23-05.51.55:048][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F_4F144BAD84F3D1B53F6E0B9A242803087.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_4.uasset'
+[2019.08.23-05.51.55:057][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F_5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_5.uasset" SILENT=true
+[2019.08.23-05.51.55:064][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F_5236C78BD41C63D539724DD903F4D6FB9.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F_5.uasset'
+[2019.08.23-05.51.55:073][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F1.uasset" SILENT=true
+[2019.08.23-05.51.55:079][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F13133021B4819A665699B80A3DC4FAD22.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F1.uasset'
+[2019.08.23-05.51.55:089][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F2.uasset" SILENT=true
+[2019.08.23-05.51.55:096][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F2381230BF4B3BEB421FAC3B971E2E40DC.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F2.uasset'
+[2019.08.23-05.51.55:104][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F3.uasset" SILENT=true
+[2019.08.23-05.51.55:112][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F39A1C6B0740669930D35D84AE72867B99.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F3.uasset'
+[2019.08.23-05.51.55:120][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F4.uasset" SILENT=true
+[2019.08.23-05.51.55:128][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F4A74265B44894CCDE606858AE011A43F5.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F4.uasset'
+[2019.08.23-05.51.55:137][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_F5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F5.uasset" SILENT=true
+[2019.08.23-05.51.55:144][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_F5895FCF7D4862BB2294CCE488C5B4F37E.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_F5.uasset'
+[2019.08.23-05.51.55:153][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G_1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_1.uasset" SILENT=true
+[2019.08.23-05.51.55:160][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G_1337882FF444C03F2668A5F8930CE996C.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_1.uasset'
+[2019.08.23-05.51.55:168][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G_2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_2.uasset" SILENT=true
+[2019.08.23-05.51.55:176][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G_29E27D69F4A38E61BDF7ADA86074DAE3F.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_2.uasset'
+[2019.08.23-05.51.55:184][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G_3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_3.uasset" SILENT=true
+[2019.08.23-05.51.55:191][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G_33C33653E4DDA7DEF29282B838B461BD9.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_3.uasset'
+[2019.08.23-05.51.55:200][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G_4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_4.uasset" SILENT=true
+[2019.08.23-05.51.55:207][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G_4F5044F594B62C6AC4A59D193C929D29E.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_4.uasset'
+[2019.08.23-05.51.55:215][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G_5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_5.uasset" SILENT=true
+[2019.08.23-05.51.55:222][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G_5914541584E9D48D62A966BB0DA382FB9.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G_5.uasset'
+[2019.08.23-05.51.55:231][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G1" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G1.uasset" SILENT=true
+[2019.08.23-05.51.55:238][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G1194262454CC4254F4EC8969F6800C9AF.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G1.uasset'
+[2019.08.23-05.51.55:247][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G2" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G2.uasset" SILENT=true
+[2019.08.23-05.51.55:254][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G25789F6EF454AE62D81B1FB98BE779CFA.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G2.uasset'
+[2019.08.23-05.51.55:263][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G3" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G3.uasset" SILENT=true
+[2019.08.23-05.51.55:270][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G369B4740F439996C81649C0860D4D17F8.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G3.uasset'
+[2019.08.23-05.51.55:275][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G4" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.uasset" SILENT=true
+[2019.08.23-05.51.55:279][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G4346968874F584DAD865460B4A4C0E822.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G4.uasset'
+[2019.08.23-05.51.55:288][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Marimba/Marimba_G5" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G5.uasset" SILENT=true
+[2019.08.23-05.51.55:295][333]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/Marimba_G578CF51DE449BD103743F5184C582390F.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Sounds/Marimba/Marimba_G5.uasset'
+[2019.08.23-05.51.56:949][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.51.58:309][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A_1をインポート。
+[2019.08.23-05.51.58:309][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A_2をインポート。
+[2019.08.23-05.51.58:309][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A_3をインポート。
+[2019.08.23-05.51.58:309][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A_4をインポート。
+[2019.08.23-05.51.58:309][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A_5をインポート。
+[2019.08.23-05.51.58:309][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A1をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_A5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_B1をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_B2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_B3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_B4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_B5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C_2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C_3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C_4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C_5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_C6をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D_2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D_3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D_4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D_5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_D5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_E2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_E3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_E4をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_E5をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F_1をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F_2をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F_3をインポート。
+[2019.08.23-05.51.58:310][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F_4をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F_5をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F1をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F2をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F3をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F4をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_F5をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G_1をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G_2をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G_3をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G_4をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G_5をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G1をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G2をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G3をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G4をインポート。
+[2019.08.23-05.51.58:311][501]AssetReimport: 新規アセット/Game/Sounds/Marimba/Marimba_G5をインポート。
+[2019.08.23-05.52.19:961][800]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.23-05.52.19:994][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.52.19:996][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-05.52.19:997][800]PIE: New page: PIEセッション: Untitled_1 (2019/08/23 23:52:19)
+[2019.08.23-05.52.20:011][800]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.08.23-05.52.20:018][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006626s)
+[2019.08.23-05.52.20:019][800]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.52.20:020][800]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2019.08.23-05.52.20:021][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009509s)
+[2019.08.23-05.52.20:068][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.08.23-05.52.20:081][800]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.52.20:093][800]LogInit: FAudioDevice initialized.
+[2019.08.23-05.52.20:130][800]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-05.52.20:131][800]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.08.23-14.52.20
+[2019.08.23-05.52.20:131][800]LogWorld: Bringing up level for play took: 0.000431
+[2019.08.23-05.52.20:150][800]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.23-05.52.20:152][800]PIE: /Temp/UEDPIE_0_Untitled_1 0.519のプレイ イン エディタの開始時間
+[2019.08.23-05.52.20:152][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.52.26:564][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.52.26:565][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.52.26:596][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-05.52.26:596][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.52.26:632][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.52.26:634][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.08.23-05.52.26:663][185]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.08.23-05.52.31:857][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.52.32:052][506]LogActorFactory: Actor Factory created Sphere
+[2019.08.23-05.52.33:108][568]LogActorFactory: Actor Factory created Sphere
+[2019.08.23-05.52.53:316][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.52.56:746][974]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.23-05.52.56:769][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.52.56:769][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-05.52.56:769][974]PIE: New page: PIEセッション: Untitled_1 (2019/08/23 23:52:56)
+[2019.08.23-05.52.56:769][974]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.08.23-05.52.56:773][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003493s)
+[2019.08.23-05.52.56:774][974]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.52.56:774][974]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.08.23-05.52.56:774][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004479s)
+[2019.08.23-05.52.56:809][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.08.23-05.52.56:821][974]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.52.56:831][974]LogInit: FAudioDevice initialized.
+[2019.08.23-05.52.56:860][974]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-05.52.56:862][974]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.08.23-14.52.56
+[2019.08.23-05.52.56:862][974]LogWorld: Bringing up level for play took: 0.000501
+[2019.08.23-05.52.56:875][974]PIE: /Temp/UEDPIE_0_Untitled_1 -0.758のプレイ イン エディタの開始時間
+[2019.08.23-05.52.56:875][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.54.54:435][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.54.54:435][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.54.54:463][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-05.54.54:463][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.54.54:490][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.54.54:493][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.08.23-05.54.54:546][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.23-05.54.56:431][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.55.06:950][714]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.23-05.55.06:965][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.55.06:965][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-05.55.06:966][714]PIE: New page: PIEセッション: Untitled_1 (2019/08/23 23:55:06)
+[2019.08.23-05.55.06:966][714]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.08.23-05.55.06:969][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003258s)
+[2019.08.23-05.55.06:969][714]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.55.06:970][714]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.08.23-05.55.06:970][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004185s)
+[2019.08.23-05.55.06:994][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.08.23-05.55.07:009][714]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.55.07:019][714]LogInit: FAudioDevice initialized.
+[2019.08.23-05.55.07:050][714]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-05.55.07:051][714]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.08.23-14.55.07
+[2019.08.23-05.55.07:051][714]LogWorld: Bringing up level for play took: 0.000416
+[2019.08.23-05.55.07:063][714]PIE: /Temp/UEDPIE_0_Untitled_1 -0.57のプレイ イン エディタの開始時間
+[2019.08.23-05.55.07:063][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.55.45:371][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.55.45:372][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.55.45:401][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-05.55.45:401][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.55.45:443][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.55.45:445][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.08.23-05.55.45:483][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.23-05.55.52:170][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.56.04:329][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.23-05.56.15:399][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.56.17:435][915]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.23-05.56.17:457][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.56.17:457][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-05.56.17:457][915]PIE: New page: PIEセッション: Untitled_1 (2019/08/23 23:56:17)
+[2019.08.23-05.56.17:457][915]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.08.23-05.56.17:461][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003581s)
+[2019.08.23-05.56.17:461][915]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.56.17:462][915]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2019.08.23-05.56.17:462][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004683s)
+[2019.08.23-05.56.17:491][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.08.23-05.56.17:501][915]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.56.17:511][915]LogInit: FAudioDevice initialized.
+[2019.08.23-05.56.17:541][915]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-05.56.17:544][915]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.08.23-14.56.17
+[2019.08.23-05.56.17:544][915]LogWorld: Bringing up level for play took: 0.001306
+[2019.08.23-05.56.17:560][915]PIE: /Temp/UEDPIE_0_Untitled_1 -0.073のプレイ イン エディタの開始時間
+[2019.08.23-05.56.17:560][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.57.33:239][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.57.33:239][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.57.33:266][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-05.57.33:266][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.57.33:301][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.57.33:303][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.08.23-05.57.33:340][453]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.23-05.57.34:074][497]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere)
+[2019.08.23-05.57.34:127][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-05.57.41:691][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.57.41:807][947]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.23-05.57.41:836][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.57.41:836][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-05.57.41:837][947]PIE: New page: PIEセッション: Untitled_1 (2019/08/23 23:57:41)
+[2019.08.23-05.57.41:837][947]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.08.23-05.57.41:841][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004536s)
+[2019.08.23-05.57.41:843][947]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.57.41:843][947]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2019.08.23-05.57.41:844][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006930s)
+[2019.08.23-05.57.41:895][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.23-05.57.41:913][947]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.57.41:929][947]LogInit: FAudioDevice initialized.
+[2019.08.23-05.57.41:956][947]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-05.57.41:958][947]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.08.23-14.57.41
+[2019.08.23-05.57.41:958][947]LogWorld: Bringing up level for play took: 0.000811
+[2019.08.23-05.57.41:973][947]PIE: /Temp/UEDPIE_0_Untitled_1 0.34のプレイ イン エディタの開始時間
+[2019.08.23-05.57.41:974][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.18:545][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.18:545][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.58.18:576][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-05.58.18:576][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.18:639][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.58.18:643][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.08.23-05.58.18:662][138]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.23-05.58.35:102][123]Cmd: SELECT NONE
+[2019.08.23-05.58.36:618][214]Cmd: SELECT NONE
+[2019.08.23-05.58.37:376][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.08.23-05.58.39:038][353]Cmd: EDIT COPY
+[2019.08.23-05.58.39:207][363]Cmd: EDIT PASTE
+[2019.08.23-05.58.42:910][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.23-05.58.42:976][586]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.23-05.58.43:003][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.43:003][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.23-05.58.43:003][586]PIE: New page: PIEセッション: Untitled_1 (2019/08/23 23:58:43)
+[2019.08.23-05.58.43:004][586]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.08.23-05.58.43:008][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004167s)
+[2019.08.23-05.58.43:009][586]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.23-05.58.43:009][586]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2019.08.23-05.58.43:009][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005610s)
+[2019.08.23-05.58.43:048][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.08.23-05.58.43:059][586]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.23-05.58.43:069][586]LogInit: FAudioDevice initialized.
+[2019.08.23-05.58.43:095][586]LogLoad: Game class is 'GameModeBase'
+[2019.08.23-05.58.43:097][586]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.08.23-14.58.43
+[2019.08.23-05.58.43:097][586]LogWorld: Bringing up level for play took: 0.000421
+[2019.08.23-05.58.43:111][586]PIE: /Temp/UEDPIE_0_Untitled_1 -0.522のプレイ イン エディタの開始時間
+[2019.08.23-05.58.43:111][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.55:712][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.55:713][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.58.55:744][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.23-05.58.55:744][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.08.23-05.58.55:799][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.23-05.58.55:801][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.08.23-05.58.55:817][341]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.23-05.58.58:652][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2019.08.23-06.01.53:928][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-06.01.55:410][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-06.02.04:090][107]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.08.23-06.02.04:112][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.08.23-06.02.05:930][107]LogSlate: Window 'コンテンツを保存' being destroyed
+[2019.08.23-06.02.05:963][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.23-06.02.15:529][107]LogSlate: Window 'メッセージ' being destroyed
+[2019.08.23-06.02.15:542][107]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2019.08.23-06.02.15:607][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.08.23-06.02.15:607][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DebugRoom" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Maps/DebugRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.23-06.02.15:625][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.08.23-06.02.15:710][107]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/DebugRoomC550745245AF7E8EC4A4769E690EC76B.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Maps/DebugRoom.umap'
+[2019.08.23-06.02.15:734][107]LogFileHelpers: Saving map 'DebugRoom' took 0.172
+[2019.08.23-06.02.15:793][107]LogSlate: Window 'プラグイン' being destroyed
+[2019.08.23-06.02.15:796][107]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.08.23-06.02.15:796][107]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.22/Enterprise/Plugins/' was aborted.
+[2019.08.23-06.02.15:796][107]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2019.08.23-06.02.16:010][108]Cmd: QUIT_EDITOR
+[2019.08.23-06.02.16:987][108]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.08.23-06.02.17:016][108]LogExit: Preparing to exit.
+[2019.08.23-06.02.17:863][108]LogExit: Editor shut down
+[2019.08.23-06.02.17:864][108]LogExit: Transaction tracking system shut down
+[2019.08.23-06.02.18:019][108]LogExit: Object subsystem successfully closed.
+[2019.08.23-06.02.18:038][108]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.23-06.02.18:043][108]LogD3D11RHI: Shutdown
+[2019.08.23-06.02.18:043][108]LogD3D11RHI: CleanupD3DDevice
+[2019.08.23-06.02.18:044][108]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.23-06.02.18:044][108]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.23-06.02.18:044][108]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.23-06.02.18:044][108]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.23-06.02.18:044][108]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.23-06.02.18:044][108]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.23-06.02.18:096][108]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.23-06.02.18:112][108]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.08.23-06.02.18:112][108]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.08.23-06.02.18:112][108]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.08.23-06.02.18:112][108]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.08.23-06.02.18:112][108]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.23-06.02.18:113][108]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.23-06.02.18:114][108]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.23-06.02.18:115][108]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.23-06.02.18:215][108]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.23-06.02.18:216][108]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.23-06.02.18:260][108]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.23-06.02.18:261][108]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.23-06.02.18:261][108]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.23-06.02.18:261][108]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.23-06.02.18:261][108]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.23-06.02.18:261][108]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.23-06.02.18:261][108]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.23-06.02.18:263][108]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.23-06.02.18:501][108]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.23-06.02.18:501][108]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.23-06.02.18:501][108]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.23-06.02.18:502][108]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.23-06.02.18:503][108]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.23-06.02.18:604][108]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.23-06.02.18:704][108]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.23-06.02.18:704][108]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.23-06.02.18:705][108]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.23-06.02.18:706][108]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.23-06.02.18:707][108]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.23-06.02.18:749][108]LogDerivedDataCache: Shutdown
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.23-06.02.18:749][108]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.23-06.02.18:750][108]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.23-06.02.18:751][108]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.23-06.02.18:751][108]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.23-06.02.18:751][108]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.23-06.02.18:751][108]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.23-06.02.18:757][108]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.23-06.02.18:758][108]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.23-06.02.18:758][108]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.23-06.02.18:759][108]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.23-06.02.18:759][108]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.23-06.02.18:782][108]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.23-06.02.18:782][108]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.23-06.02.18:782][108]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD89A6F15-46FF-C3F5-4A3E-CA850561EBAE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a8fbfc2347501230d88528aba57c7f3f%7C0142585569364dfb96e33450b4b96e97%7Cdd5b3a02-58e2-4514-8ddb-93bac6c56568&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.23-06.02.18:815][108]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.23-06.02.18:815][108]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.23-06.02.18:816][108]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.23-06.02.18:823][108]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.23-06.02.18:823][108]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.23-06.02.18:823][108]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.23-06.02.18:824][108]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.23-06.02.18:830][108]LogExit: Exiting.
+[2019.08.23-06.02.18:839][108]Log file closed, 08/23/19 15:02:18
