@@ -1,0 +1,2 @@
+C:\Users\GLaTAN\Git\19-U22-Instreal\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+c:\users\glatan\git\19-u22-instreal\myproject\source\myproject\fromHex.h
