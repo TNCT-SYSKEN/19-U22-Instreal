@@ -1,0 +1,3 @@
+C:\Users\GLaTAN\Git\19-U22-Instreal\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\GLaTAN\Git\19-U22-Instreal\MyProject\Source\MyProject.Target.cs
+C:\Users\GLaTAN\Git\19-U22-Instreal\MyProject\Source\MyProjectEditor.Target.cs
