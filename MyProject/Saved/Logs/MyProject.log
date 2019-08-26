@@ -4064,3 +4064,64 @@ Total execution time: 8.43 seconds
 [2019.08.26-13.31.35:309][818]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/DebugRoom2901271E444A696CA2D0E391CAE86531.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Maps/DebugRoom.umap'
 [2019.08.26-13.31.35:338][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DebugRoom_BuiltData" FILE="../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Maps/DebugRoom_BuiltData.uasset" SILENT=true
 [2019.08.26-13.31.35:365][818]LogSavePackage: Moving '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Saved/DebugRoom_BuiltDataB69E23EE445BF72F834B7AA6ABAA7574.tmp' to '../../../../../../Users/GLaTAN/Git/19-U22-Instreal/MyProject/Content/Maps/DebugRoom_BuiltData.uasset'
+[2019.08.26-13.35.22:121][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-13.35.22:737][745]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.26-13.35.22:759][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom' with GeneratedClass '/Game/Maps/DebugRoom.DebugRoom_C' with ClassGeneratedBy '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom'
+[2019.08.26-13.35.22:759][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-13.35.22:759][745]PIE: New page: PIEセッション: DebugRoom (2019/08/27 7:35:22)
+[2019.08.26-13.35.22:759][745]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DebugRoom
+[2019.08.26-13.35.22:762][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002664s)
+[2019.08.26-13.35.22:763][745]LogAIModule: Creating AISystem for world DebugRoom
+[2019.08.26-13.35.22:763][745]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2019.08.26-13.35.22:763][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DebugRoom.DebugRoom to /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom (0.003918s)
+[2019.08.26-13.35.22:787][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.08.26-13.35.22:797][745]LogInit: XAudio2 using 'スピーカー (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.26-13.35.22:806][745]LogInit: FAudioDevice initialized.
+[2019.08.26-13.35.22:839][745]LogLoad: Game class is 'GameModeBase'
+[2019.08.26-13.35.22:847][745]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom up for play (max tick rate 60) at 2019.08.26-22.35.22
+[2019.08.26-13.35.22:847][745]LogWorld: Bringing up level for play took: 0.007090
+[2019.08.26-13.35.22:859][745]PIE: /Game/Maps/UEDPIE_0_DebugRoom -0.087のプレイ イン エディタの開始時間
+[2019.08.26-13.35.22:859][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom' with GeneratedClass '/Game/Maps/DebugRoom.DebugRoom_C' with ClassGeneratedBy '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom'
+[2019.08.26-13.35.27:805][ 41]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-19 via property Particle, but NODE_AddParticleSystemComponent-19 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.28:406][ 77]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-20 via property Particle, but NODE_AddParticleSystemComponent-20 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass2
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.28:406][ 77]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-20 via property Particle, but NODE_AddParticleSystemComponent-20 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.28:890][106]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-21 via property Particle, but NODE_AddParticleSystemComponent-21 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass3
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.28:890][106]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-21 via property Particle, but NODE_AddParticleSystemComponent-21 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.29:312][131]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-22 via property Particle, but NODE_AddParticleSystemComponent-22 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass4
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.29:312][131]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-22 via property Particle, but NODE_AddParticleSystemComponent-22 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.29:851][163]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-23 via property Particle, but NODE_AddParticleSystemComponent-23 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass5
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.29:851][163]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-23 via property Particle, but NODE_AddParticleSystemComponent-23 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.29:867][164]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-23 via property Particle, but NODE_AddParticleSystemComponent-23 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass5
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.29:868][164]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-23 via property Particle, but NODE_AddParticleSystemComponent-23 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.30:059][175]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-24 via property Particle, but NODE_AddParticleSystemComponent-24 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass6
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.30:059][175]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-24 via property Particle, but NODE_AddParticleSystemComponent-24 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.30:076][176]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-24 via property Particle, but NODE_AddParticleSystemComponent-24 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass6
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.30:076][176]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-24 via property Particle, but NODE_AddParticleSystemComponent-24 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.33:120][357]LogScript: Warning: Attempted to access NODE_AddParticleSystemComponent-26 via property Particle, but NODE_AddParticleSystemComponent-26 is pending kill
+	Glass_C /Game/Maps/UEDPIE_0_DebugRoom.DebugRoom:PersistentLevel.Glass7
+	Function /Game/Blueprints/Glass.Glass_C:ExecuteUbergraph_Glass:0096
+[2019.08.26-13.35.33:120][357]PIE: Error: Blueprint Runtime Error: "Attempted to access NODE_AddParticleSystemComponent-26 via property Particle, but NODE_AddParticleSystemComponent-26 is pending kill". Blueprint:  Glass Function:  Execute Ubergraph Glass Graph:  EventGraph Node:  DestroyComponent
+[2019.08.26-13.35.33:889][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom' with GeneratedClass '/Game/Maps/DebugRoom.DebugRoom_C' with ClassGeneratedBy '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom'
+[2019.08.26-13.35.33:889][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.35.33:919][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-13.35.33:919][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom' with GeneratedClass '/Game/Maps/DebugRoom.DebugRoom_C' with ClassGeneratedBy '/Game/Maps/DebugRoom.DebugRoom:PersistentLevel.DebugRoom'
+[2019.08.26-13.35.33:980][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.35.33:985][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.08.26-13.35.33:994][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-13.35.34:025][404]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.08.26-13.35.35:275][479]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.08.26-13.35.35:282][479]LogSlate: Window 'メッセージ ログ' being destroyed
